@@ -177,7 +177,7 @@ Example CSV:
 ## Sample Output
 
 <p align="center">
-<img src="assets/output.png" width="900">
+<img src="output src.jpg" width="900">
 </p>
 
 ---
