@@ -1,5 +1,8 @@
-pandas
+insightface
+onnxruntime
+opencv-python
 numpy
-scikit-learn
+pandas
 matplotlib
-seaborn
+scikit-learn
+tqdm
