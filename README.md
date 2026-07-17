@@ -54,27 +54,7 @@ Given an unorganized collection of facial images captured under different enviro
 
 ---
 
-## Project Structure
 
-```text
-Face-Identification-ArcFace-DBSCAN/
-│
-├── assets/
-│   ├── architecture.png
-│   ├── workflow.png
-│   └── output.png
-│
-├── sample_output/
-│   ├── cluster_0/
-│   ├── cluster_1/
-│   ├── cluster_2/
-│   └── report.csv
-│
-├── Face_Identification.ipynb
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
 
 ---
 
